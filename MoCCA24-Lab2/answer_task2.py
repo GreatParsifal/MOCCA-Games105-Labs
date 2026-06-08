@@ -1,7 +1,3 @@
-##############
-# 姓名：马培杰
-# 学号：2300012811
-##############
 from graph import *
 from answer_task1 import *
 from scipy.spatial.transform import Rotation as R

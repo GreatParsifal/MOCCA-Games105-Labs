@@ -1,7 +1,3 @@
-###################
-# 学号：2300012811
-# 姓名：马培杰
-###################
 import numpy as np
 from scipy.spatial.transform import Rotation
 
